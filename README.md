@@ -1,0 +1,1 @@
+Ok, so here is result of me playing and testing ChatGPT abilities. This startup.sh script created dir structure, files and all other needed for start of mediawiki on your host. Don`t forget to cp ./.env.example to ./.env while adding required info in it.
